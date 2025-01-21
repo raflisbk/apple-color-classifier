@@ -1,9 +1,3 @@
-# Mohamad Rafli Agung Subekti
-
-raflisbk@gmail.com 081330583086
-
-Note: Kpd Team Hiring Sawit Pro, dikarenakan untuk device pribadi (laptop) saya tidak mempunyai GPU, maka untuk proses pelatihan model saya menggunakan Google Colab dengan akselerasi GPU. Namun saya juga menyediakan source code pelatihan model yang compatible untuk di jalankan secara local (menggunakan jupyter) apabila tersedia GPU dalam device.
-
 # Deteksi Warna Buah Apel Menggunakan Model YOLOv8
 
 ## Pendahuluan
